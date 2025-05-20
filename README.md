@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wajdy</h1>
 <h3 align="center">Full-Stack Software & Mobile App Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wajdy-e" alt="wajdy-e" /></a> </p>
-
 - 🔭 I’m currently working on [Cogipro](https://github.com/Wajdy-E/Cogimat)
 
 - 👯 I’m looking to collaborate on **a new startup idea**
